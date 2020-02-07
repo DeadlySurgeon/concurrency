@@ -1,15 +1,12 @@
 [package]
 name = "concurrency"
-version = "4.2.0"
-description = '''This exist to prove a point
-
-Read more about this over at:   
-https://github.com/DeadlySurgeon/concurrency
-'''
-
+version = "4.20.1"
+description = '''This exist to prove a point'''
+readme = "README.md"
 license = "Apache-2.0"
 authors = ["The Surgeon"]
-homepage = "https://deadly.surgery"
+# homepage = "https://deadly.surgery/"
+repository = "https://github.com/DeadlySurgeon/concurrency"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -1,7 +1,6 @@
 # Concurrency
 
-This exists to prove a point. 
-
+[This exists to prove a point.](https://crates.io/crates/concurrency)
 
 ```
 [1:25 PM]  ARustyDev: Ehh, imo package management itself is kinda broken no matter how you implement it
@@ -19,4 +18,3 @@ name just so happens to be a "trademarked" name and they lose access to it.
 
 If anyone wants this crate, it's being held ransom. The price is a not shit
 package manager for Rust.
-
