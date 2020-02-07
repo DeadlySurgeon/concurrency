@@ -1,7 +1,11 @@
 [package]
 name = "concurrency"
 version = "4.2.0"
-description = '''This exist to prove a point'''
+description = '''This exist to prove a point
+
+Read more about this over at:   
+https://github.com/DeadlySurgeon/concurrency
+'''
 
 license = "Apache-2.0"
 authors = ["The Surgeon"]
